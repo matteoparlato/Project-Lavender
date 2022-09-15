@@ -1,2 +1,2 @@
-# Project-Lavender
+# Project Lavender
 Repository of Project Lavender

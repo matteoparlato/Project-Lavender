@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Project Lavender (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Project Lavender (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
